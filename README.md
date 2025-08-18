@@ -27,4 +27,4 @@ Com o banco de dados devidamente criado, o usuário e senha padrão do aplicativ
 O aplicativo foi programado em **C#** utilizando o Visual Studio e foi integrado com um banco de dados local utilizando **MySQL**
 
 ## 🎓 Créditos
-Esse projeto não possui nenhuma licença ou direito autoral, o projeto foi pensado e orientado como uma atividade pelo professor André Linares e a programação desse projeto foi feita pelos integrantes [Renan Mochizuki](https://github.com/Renan-Mochizuki), [Sandy Cavalcanti](https://github.com/sandycavalcanti) e [Vitor Gomes de Souza](https://www.linkedin.com/in/vitor-hugo-gomes-0ab1b325a/)
+Esse projeto não possui nenhuma licença ou direito autoral, o projeto foi pensado e orientado como uma atividade pelo professor André Linares e a programação desse projeto foi feita pelos integrantes [Renan Mochizuki](https://github.com/Renan-Mochizuki), [Sandy Cavalcanti](https://github.com/sandycavalcanti) e [Vitor Gomes de Souza](https://www.linkedin.com/in/vitor-hugo-gomes-0ab1b325a/).
